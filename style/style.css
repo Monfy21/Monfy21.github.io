@@ -1,0 +1,21 @@
+h1{
+	width: 21%; /* Ширина блока */
+	background: #F0F0F0; /* Задний фон блока */
+	height: 45px; /* Длина блока */
+	padding: 10px; /* Отступ со всех сторон  */
+	padding-left: 60px; /* Отступ слева */
+	border: 1px solid; /* Обводка блока */
+	
+}
+
+a{
+	text-decoration: none; /* Убираем ссылку под текстом */
+}
+
+.thumb img{
+    border: 1px solid; /* Рамка вокруг фотографии */
+    padding: 15px; /* Расстояние от картинки до рамки */
+    background: #777; /* Цвет фона */
+    margin-right: 10px; /* Отступ справа */
+    margin-bottom: 10px; /* Отступ снизу */
+   }
